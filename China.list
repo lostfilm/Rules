@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
 # > Other
 DOMAIN-SUFFIX,cn
+DOMAIN-KEYWORD,-cn
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,aicoinstorge.com
