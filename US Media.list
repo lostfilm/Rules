@@ -1,0 +1,46 @@
+# US Media
+DOMAIN-SUFFIX,criterionchannel.com,US Media
+DOMAIN-KEYWORD,sprtlive,US Media
+DOMAIN-SUFFIX,philo.com,US Media
+DOMAIN-SUFFIX,hulu.com,US Media
+DOMAIN-SUFFIX,pandora.com,US Media
+
+# > CBS
+DOMAIN-KEYWORD,cbs,US Media
+DOMAIN-SUFFIX,www.syncbak.com,US Media
+DOMAIN-SUFFIX,cbsstatic.com,US Media
+DOMAIN-SUFFIX,bamgrid.com,US Media
+DOMAIN-SUFFIX,cbs.com,US Media
+
+# > FOX
+DOMAIN-SUFFIX,theplatform.com,US Media
+DOMAIN-SUFFIX,foxdcg.com,US Media
+DOMAIN-SUFFIX,fox.com,US Media
+DOMAIN-SUFFIX,foxsportsgo.com,US Media
+DOMAIN-KEYWORD,live-fox,US Media
+
+# > NBC
+DOMAIN-SUFFIX,akamaized.net,US Media
+DOMAIN-SUFFIX,golfchannel.com,US Media
+DOMAIN-SUFFIX,nbcsports.com,US Media
+DOMAIN-SUFFIX,nbc.com,US Media
+DOMAIN-KEYWORD,olympicchannel-i,US Media
+DOMAIN-SUFFIX,nbcuni.com,US Media
+DOMAIN-KEYWORD,tvegolf,US Media
+
+# > ESPN
+DOMAIN-SUFFIX,cintnetworks.com,US Media
+DOMAIN-KEYWORD,espn,US Media
+DOMAIN-SUFFIX,auth.adobe.com,US Media
+DOMAIN-SUFFIX,espncdn.com,US Media
+DOMAIN-SUFFIX,espn.com,US Media
+DOMAIN-SUFFIX,uplynk.com,US Media
+
+# > HBO
+DOMAIN-SUFFIX,hbo.com,US Media
+DOMAIN-SUFFIX,hbogo.com,US Media
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,US Media
+
+# > ABC
+DOMAIN-SUFFIX,go.com,US Media
+DOMAIN-SUFFIX,edgedatg.com,US Media
