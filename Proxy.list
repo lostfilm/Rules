@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-KEYWORD,whatsapp
+## NFL Gamepass
+DOMAIN-KEYWORD,nflusvideo
 ## 国外网站
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
